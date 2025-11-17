@@ -1,0 +1,9 @@
+[project]
+name = "jabutcoin"
+description = "Jabutcoin fungible token smart contract"
+authors = ["anthony"]
+telemetry = false
+
+[contracts.jabutcoin]
+path = "contracts/jabutcoin.clar"
+depends_on = []
